@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Estuardo Castillo\\.nuget\\packages\\": {}
+    "C:\\Users\\and92\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Estuardo Castillo\\source\\repos\\Ejemplo\\Ejemplo.csproj",
+      "projectUniqueName": "C:\\Users\\and92\\Documents\\GitHub\\Laboratorio-3\\Laboratorio--03-main\\Laboratorio\\Ejemplo.csproj",
       "projectName": "Ejemplo",
-      "projectPath": "C:\\Users\\Estuardo Castillo\\source\\repos\\Ejemplo\\Ejemplo.csproj",
-      "packagesPath": "C:\\Users\\Estuardo Castillo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Estuardo Castillo\\source\\repos\\Ejemplo\\obj\\",
+      "projectPath": "C:\\Users\\and92\\Documents\\GitHub\\Laboratorio-3\\Laboratorio--03-main\\Laboratorio\\Ejemplo.csproj",
+      "packagesPath": "C:\\Users\\and92\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\and92\\Documents\\GitHub\\Laboratorio-3\\Laboratorio--03-main\\Laboratorio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Estuardo Castillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\and92\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

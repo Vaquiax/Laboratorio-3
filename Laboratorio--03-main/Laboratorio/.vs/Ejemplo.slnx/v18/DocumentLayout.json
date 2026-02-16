@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Estuardo Castillo\\source\\repos\\Ejemplo\\",
+  "WorkspaceRootPath": "C:\\Users\\and92\\Documents\\GitHub\\Laboratorio-3\\Laboratorio--03-main\\Laboratorio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B203AE67-1EC7-3149-99D1-C6EB20895D23}|Ejemplo.csproj|c:\\users\\estuardo castillo\\source\\repos\\ejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B203AE67-1EC7-3149-99D1-C6EB20895D23}|Ejemplo.csproj|c:\\users\\and92\\documents\\github\\laboratorio-3\\laboratorio--03-main\\laboratorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B203AE67-1EC7-3149-99D1-C6EB20895D23}|Ejemplo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Estuardo Castillo\\source\\repos\\Ejemplo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\and92\\Documents\\GitHub\\Laboratorio-3\\Laboratorio--03-main\\Laboratorio\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Estuardo Castillo\\source\\repos\\Ejemplo\\Program.cs",
+              "ToolTip": "C:\\Users\\and92\\Documents\\GitHub\\Laboratorio-3\\Laboratorio--03-main\\Laboratorio\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-04T10:03:56.841Z",
               "EditorCaption": ""
