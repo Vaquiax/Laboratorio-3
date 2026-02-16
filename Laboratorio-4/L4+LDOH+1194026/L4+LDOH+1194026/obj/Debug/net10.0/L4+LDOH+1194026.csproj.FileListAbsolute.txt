@@ -1,0 +1,14 @@
+C:\Users\loliv\source\repos\L4+LDOH+1194026\L4+LDOH+1194026\bin\Debug\net10.0\L4+LDOH+1194026.exe
+C:\Users\loliv\source\repos\L4+LDOH+1194026\L4+LDOH+1194026\bin\Debug\net10.0\L4+LDOH+1194026.deps.json
+C:\Users\loliv\source\repos\L4+LDOH+1194026\L4+LDOH+1194026\bin\Debug\net10.0\L4+LDOH+1194026.runtimeconfig.json
+C:\Users\loliv\source\repos\L4+LDOH+1194026\L4+LDOH+1194026\bin\Debug\net10.0\L4+LDOH+1194026.dll
+C:\Users\loliv\source\repos\L4+LDOH+1194026\L4+LDOH+1194026\bin\Debug\net10.0\L4+LDOH+1194026.pdb
+C:\Users\loliv\source\repos\L4+LDOH+1194026\L4+LDOH+1194026\obj\Debug\net10.0\L4+LDOH+1194026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loliv\source\repos\L4+LDOH+1194026\L4+LDOH+1194026\obj\Debug\net10.0\L4+LDOH+1194026.AssemblyInfoInputs.cache
+C:\Users\loliv\source\repos\L4+LDOH+1194026\L4+LDOH+1194026\obj\Debug\net10.0\L4+LDOH+1194026.AssemblyInfo.cs
+C:\Users\loliv\source\repos\L4+LDOH+1194026\L4+LDOH+1194026\obj\Debug\net10.0\L4+LDOH+1194026.csproj.CoreCompileInputs.cache
+C:\Users\loliv\source\repos\L4+LDOH+1194026\L4+LDOH+1194026\obj\Debug\net10.0\L4+LDOH+1194026.dll
+C:\Users\loliv\source\repos\L4+LDOH+1194026\L4+LDOH+1194026\obj\Debug\net10.0\refint\L4+LDOH+1194026.dll
+C:\Users\loliv\source\repos\L4+LDOH+1194026\L4+LDOH+1194026\obj\Debug\net10.0\L4+LDOH+1194026.pdb
+C:\Users\loliv\source\repos\L4+LDOH+1194026\L4+LDOH+1194026\obj\Debug\net10.0\L4+LDOH+1194026.genruntimeconfig.cache
+C:\Users\loliv\source\repos\L4+LDOH+1194026\L4+LDOH+1194026\obj\Debug\net10.0\ref\L4+LDOH+1194026.dll
