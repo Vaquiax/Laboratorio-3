@@ -1,0 +1,14 @@
+C:\Users\and92\source\repos\L5AV1103526\L5AV1103526\bin\Debug\net10.0\L5AV1103526.exe
+C:\Users\and92\source\repos\L5AV1103526\L5AV1103526\bin\Debug\net10.0\L5AV1103526.deps.json
+C:\Users\and92\source\repos\L5AV1103526\L5AV1103526\bin\Debug\net10.0\L5AV1103526.runtimeconfig.json
+C:\Users\and92\source\repos\L5AV1103526\L5AV1103526\bin\Debug\net10.0\L5AV1103526.dll
+C:\Users\and92\source\repos\L5AV1103526\L5AV1103526\bin\Debug\net10.0\L5AV1103526.pdb
+C:\Users\and92\source\repos\L5AV1103526\L5AV1103526\obj\Debug\net10.0\L5AV1103526.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\and92\source\repos\L5AV1103526\L5AV1103526\obj\Debug\net10.0\L5AV1103526.AssemblyInfoInputs.cache
+C:\Users\and92\source\repos\L5AV1103526\L5AV1103526\obj\Debug\net10.0\L5AV1103526.AssemblyInfo.cs
+C:\Users\and92\source\repos\L5AV1103526\L5AV1103526\obj\Debug\net10.0\L5AV1103526.csproj.CoreCompileInputs.cache
+C:\Users\and92\source\repos\L5AV1103526\L5AV1103526\obj\Debug\net10.0\L5AV1103526.dll
+C:\Users\and92\source\repos\L5AV1103526\L5AV1103526\obj\Debug\net10.0\refint\L5AV1103526.dll
+C:\Users\and92\source\repos\L5AV1103526\L5AV1103526\obj\Debug\net10.0\L5AV1103526.pdb
+C:\Users\and92\source\repos\L5AV1103526\L5AV1103526\obj\Debug\net10.0\L5AV1103526.genruntimeconfig.cache
+C:\Users\and92\source\repos\L5AV1103526\L5AV1103526\obj\Debug\net10.0\ref\L5AV1103526.dll
