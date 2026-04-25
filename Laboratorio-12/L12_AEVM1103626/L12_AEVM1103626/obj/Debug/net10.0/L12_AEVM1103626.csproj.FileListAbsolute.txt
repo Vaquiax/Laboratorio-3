@@ -1,0 +1,14 @@
+C:\Users\and92\source\repos\L12_AEVM1103626\L12_AEVM1103626\bin\Debug\net10.0\L12_AEVM1103626.exe
+C:\Users\and92\source\repos\L12_AEVM1103626\L12_AEVM1103626\bin\Debug\net10.0\L12_AEVM1103626.deps.json
+C:\Users\and92\source\repos\L12_AEVM1103626\L12_AEVM1103626\bin\Debug\net10.0\L12_AEVM1103626.runtimeconfig.json
+C:\Users\and92\source\repos\L12_AEVM1103626\L12_AEVM1103626\bin\Debug\net10.0\L12_AEVM1103626.dll
+C:\Users\and92\source\repos\L12_AEVM1103626\L12_AEVM1103626\bin\Debug\net10.0\L12_AEVM1103626.pdb
+C:\Users\and92\source\repos\L12_AEVM1103626\L12_AEVM1103626\obj\Debug\net10.0\L12_AEVM1103626.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\and92\source\repos\L12_AEVM1103626\L12_AEVM1103626\obj\Debug\net10.0\L12_AEVM1103626.AssemblyInfoInputs.cache
+C:\Users\and92\source\repos\L12_AEVM1103626\L12_AEVM1103626\obj\Debug\net10.0\L12_AEVM1103626.AssemblyInfo.cs
+C:\Users\and92\source\repos\L12_AEVM1103626\L12_AEVM1103626\obj\Debug\net10.0\L12_AEVM1103626.csproj.CoreCompileInputs.cache
+C:\Users\and92\source\repos\L12_AEVM1103626\L12_AEVM1103626\obj\Debug\net10.0\L12_AEVM1103626.dll
+C:\Users\and92\source\repos\L12_AEVM1103626\L12_AEVM1103626\obj\Debug\net10.0\refint\L12_AEVM1103626.dll
+C:\Users\and92\source\repos\L12_AEVM1103626\L12_AEVM1103626\obj\Debug\net10.0\L12_AEVM1103626.pdb
+C:\Users\and92\source\repos\L12_AEVM1103626\L12_AEVM1103626\obj\Debug\net10.0\L12_AEVM1103626.genruntimeconfig.cache
+C:\Users\and92\source\repos\L12_AEVM1103626\L12_AEVM1103626\obj\Debug\net10.0\ref\L12_AEVM1103626.dll
